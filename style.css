@@ -1,0 +1,19 @@
+body{
+  background-color: rgba(0, 0, 0, 0.712);
+}
+h1{
+  color: rgb(117, 199, 80);
+  text-align: justify;
+}
+p{
+  text-align: justify;
+}
+.me{
+  color: white;
+  border: 5px solid red;
+  border-radius: 16px;
+  margin: 5px 5px;
+  padding: 5px 20px;
+  width: 31%;
+  float: left;
+}
